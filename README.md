@@ -1,4 +1,4 @@
-# oh-my-Zsh-
+# oh-my-Zsh-的安装和使用
 
 first the official website ： http://ohmyz.sh/  
 
