@@ -10,7 +10,7 @@ first the official website ： http://ohmyz.sh/
 （苹果自带brew命令）：brew install wget（安装wget)  
 
 -可以通过-which wget- :查看本地是否存在这个命令   
-如：jetking-MacBook-Pro:~ huangjing$ which git   
+如：jetking-MacBook-Pro:~ huangjing$ which wget   
                         
 **安装oh-my-Zsh**：  
 1） wget自动安装： wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | sh  
