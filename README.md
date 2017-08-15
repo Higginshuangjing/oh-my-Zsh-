@@ -34,4 +34,8 @@ first the official website ： http://ohmyz.sh/
     alias gbss='git bisect start'    
 4)  zsh还有一个方便的操作就是自动补全命令  
     -参考：http://yijiebuyi.com/blog/36955b84c57e338dd8255070b80829bf.html  
-    注：nano .zshrc时，改为nano ~/.zshrc
+    注：nano .zshrc时，改为nano ~/.zshrc  
+       source ~/.oh-my-zsh/plugins/incr/(incr*).zsh => 创建的脚本的名字如：incr0.2  
+       
+（附）mac终端命令大全：  
+  http://www.jianshu.com/p/3291de46f3ff
