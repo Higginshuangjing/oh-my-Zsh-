@@ -6,12 +6,10 @@ first the official website ： http://ohmyz.sh/
 
 
 **安装之前的准备**：  
--看了很多网上的安装wget的教程，各种复杂，结果从旁边厉害的运维小哥那里学到了非常简单的一招:  
-
+-看了很多网上的安装wget的教程，各种复杂，结果从旁边厉害的运维小哥那里学到了非常简单的一招:  
 （苹果自带brew命令）：brew install wget（安装wget)  
 
 -可以通过-which wget- :查看本地是否存在这个命令   
-
 如：jetking-MacBook-Pro:~ huangjing$ which git   
                         
 **安装oh-my-Zsh**：  
