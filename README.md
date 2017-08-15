@@ -2,12 +2,12 @@
 
 first the official website ： http://ohmyz.sh/  
 
-在打算安装oh-my-Zsh这个工具的时候，需要使用另外一个工具：wget（安装包管理工具）   
+在打算安装oh-my-Zsh这个工具的时候，需要使用另外一个工具：wget     
 
 
 **安装之前的准备**：  
 -看了很多网上的安装wget的教程，各种复杂，结果从旁边厉害的运维小哥那里学到了非常简单的一招:  
-（苹果自带brew命令）：brew install wget（安装wget)  
+（苹果自带brew命令 => 安装包管理工具）：brew install wget（安装wget)  
 
 -可以通过-which wget- :查看本地是否存在这个命令   
 如：jetking-MacBook-Pro:~ huangjing$ which wget   
