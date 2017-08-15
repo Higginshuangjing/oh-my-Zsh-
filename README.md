@@ -31,4 +31,7 @@ first the official website ： http://ohmyz.sh/
     alias gbsb='git bisect bad'  
     alias gbsg='git bisect good'  
     alias gbsr='git bisect reset'  
-    alias gbss='git bisect start'  
+    alias gbss='git bisect start'    
+4)  zsh还有一个方便的操作就是自动补全命令  
+    -参考：http://yijiebuyi.com/blog/36955b84c57e338dd8255070b80829bf.html  
+    注：nano .zshrc时，改为nano ~/.zshrc
