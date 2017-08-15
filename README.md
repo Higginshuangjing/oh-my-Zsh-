@@ -36,6 +36,6 @@ first the official website ： http://ohmyz.sh/
     -参考：http://yijiebuyi.com/blog/36955b84c57e338dd8255070b80829bf.html  
     注：nano .zshrc时，改为nano ~/.zshrc  
        source ~/.oh-my-zsh/plugins/incr/(incr*).zsh => 创建的脚本的名字如：incr0.2  
-       
-（附）mac终端命令大全：  
+       (mv命令真的很好用啊哈哈哈哈哈）  
+（附）mac终端命令大全：  
   http://www.jianshu.com/p/3291de46f3ff
